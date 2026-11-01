@@ -1,0 +1,81 @@
+control,admit_rate_tier,bracket,median_net_price,colleges
+For-profit,25-50%,$0-30k,29220,3
+For-profit,25-50%,$30-48k,29567,3
+For-profit,25-50%,$48-75k,31253,3
+For-profit,25-50%,$75-110k,33453,3
+For-profit,25-50%,Over $110k,34794,3
+For-profit,50-75%,$0-30k,17300,4
+For-profit,50-75%,$30-48k,17462,4
+For-profit,50-75%,$48-75k,20173,4
+For-profit,50-75%,$75-110k,25663,4
+For-profit,50-75%,Over $110k,24080,4
+For-profit,75% or more,$0-30k,27904,8
+For-profit,75% or more,$30-48k,27832,8
+For-profit,75% or more,$48-75k,29078,8
+For-profit,75% or more,$75-110k,32177,8
+For-profit,75% or more,Over $110k,31688,8
+For-profit,Open admission,$0-30k,23910,17
+For-profit,Open admission,$30-48k,24213,17
+For-profit,Open admission,$48-75k,26079,17
+For-profit,Open admission,$75-110k,29020,17
+For-profit,Open admission,Over $110k,28121,17
+Private nonprofit,10-25%,$0-30k,10988,37
+Private nonprofit,10-25%,$30-48k,11350,37
+Private nonprofit,10-25%,$48-75k,15344,37
+Private nonprofit,10-25%,$75-110k,22791,37
+Private nonprofit,10-25%,Over $110k,48971,37
+Private nonprofit,25-50%,$0-30k,17516,66
+Private nonprofit,25-50%,$30-48k,17474,66
+Private nonprofit,25-50%,$48-75k,21579,66
+Private nonprofit,25-50%,$75-110k,27613,66
+Private nonprofit,25-50%,Over $110k,39631,66
+Private nonprofit,50-75%,$0-30k,18857,277
+Private nonprofit,50-75%,$30-48k,19281,277
+Private nonprofit,50-75%,$48-75k,21518,277
+Private nonprofit,50-75%,$75-110k,25002,277
+Private nonprofit,50-75%,Over $110k,28028,277
+Private nonprofit,75% or more,$0-30k,18598,395
+Private nonprofit,75% or more,$30-48k,18927,395
+Private nonprofit,75% or more,$48-75k,21418,395
+Private nonprofit,75% or more,$75-110k,25076,395
+Private nonprofit,75% or more,Over $110k,28070,395
+Private nonprofit,Open admission,$0-30k,16337,31
+Private nonprofit,Open admission,$30-48k,16793,31
+Private nonprofit,Open admission,$48-75k,20005,31
+Private nonprofit,Open admission,$75-110k,21423,31
+Private nonprofit,Open admission,Over $110k,22727,31
+Private nonprofit,Under 10%,$0-30k,3344,26
+Private nonprofit,Under 10%,$30-48k,4348,26
+Private nonprofit,Under 10%,$48-75k,6402,26
+Private nonprofit,Under 10%,$75-110k,17388,26
+Private nonprofit,Under 10%,Over $110k,47066,26
+Public (in-state),10-25%,$0-30k,7220,8
+Public (in-state),10-25%,$30-48k,8443,8
+Public (in-state),10-25%,$48-75k,12630,8
+Public (in-state),10-25%,$75-110k,18578,8
+Public (in-state),10-25%,Over $110k,28076,8
+Public (in-state),25-50%,$0-30k,7322,35
+Public (in-state),25-50%,$30-48k,10123,35
+Public (in-state),25-50%,$48-75k,13464,35
+Public (in-state),25-50%,$75-110k,18511,35
+Public (in-state),25-50%,Over $110k,22977,35
+Public (in-state),50-75%,$0-30k,10348,114
+Public (in-state),50-75%,$30-48k,11339,114
+Public (in-state),50-75%,$48-75k,14083,114
+Public (in-state),50-75%,$75-110k,18374,114
+Public (in-state),50-75%,Over $110k,20687,114
+Public (in-state),75% or more,$0-30k,10918,333
+Public (in-state),75% or more,$30-48k,12003,333
+Public (in-state),75% or more,$48-75k,14985,333
+Public (in-state),75% or more,$75-110k,18640,333
+Public (in-state),75% or more,Over $110k,20313,333
+Public (in-state),Open admission,$0-30k,7396,102
+Public (in-state),Open admission,$30-48k,8183,102
+Public (in-state),Open admission,$48-75k,10366,102
+Public (in-state),Open admission,$75-110k,12893,102
+Public (in-state),Open admission,Over $110k,13716,102
+Public (in-state),Under 10%,$0-30k,6864,1
+Public (in-state),Under 10%,$30-48k,8731,1
+Public (in-state),Under 10%,$48-75k,11065,1
+Public (in-state),Under 10%,$75-110k,17250,1
+Public (in-state),Under 10%,Over $110k,30301,1

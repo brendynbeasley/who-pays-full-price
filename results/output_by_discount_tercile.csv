@@ -1,0 +1,19 @@
+admit_rate_tier,discount_tercile,colleges,median_discount_ex_pell,median_pell_share,median_first_year_cohort,median_price_0_30k
+Under 10%,Lowest third,9,0.707,16.000,1201.000,5900.000
+Under 10%,Middle third,8,0.773,19.000,1635.500,3344.000
+Under 10%,Highest third,9,0.827,19.000,1406.000,718.000
+10-25%,Lowest third,13,0.497,16.000,619.000,17790.000
+10-25%,Middle third,12,0.646,15.500,1110.000,11007.000
+10-25%,Highest third,12,0.747,15.500,612.500,5108.500
+25-50%,Lowest third,22,0.000,35.000,247.500,18562.000
+25-50%,Middle third,22,0.237,20.000,453.000,20349.500
+25-50%,Highest third,22,0.555,13.000,642.500,13824.500
+50-75%,Lowest third,93,0.000,40.000,230.000,19709.000
+50-75%,Middle third,92,0.053,33.500,318.500,19744.500
+50-75%,Highest third,92,0.239,24.000,439.000,15686.500
+75% or more,Lowest third,132,0.000,39.500,296.000,20248.500
+75% or more,Middle third,131,0.070,37.000,379.000,19186.000
+75% or more,Highest third,132,0.194,31.500,393.500,17244.500
+Open admission,Lowest third,11,0.000,50.000,175.000,21090.000
+Open admission,Middle third,10,0.000,56.500,309.500,16166.500
+Open admission,Highest third,10,0.070,38.000,329.500,14864.000

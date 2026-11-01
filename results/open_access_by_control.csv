@@ -1,0 +1,4 @@
+control,colleges,median_discount,median_discount_ex_pell,median_gap,median_price_over_110k
+Public (in-state),435,0.472,0.099,8671.000,19478.000
+Private nonprofit,426,0.322,0.059,8616.500,27907.500
+For-profit,25,0.163,0.000,5436.000,29646.000

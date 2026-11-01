@@ -1,0 +1,20 @@
+school,control,admit_rate,sticker_price,price_0_30k,price_48_75k,price_over_110k,discount,pell_share_pct,lowinc_share,price_0_30k_2022_23_only
+Massachusetts Institute of Technology,Private nonprofit,0.040,79850.000,-4129.000,1918.000,44726.000,1.092,18.000,0.089,-4129.000
+Stanford University,Private nonprofit,0.037,82162.000,-79.000,3637.000,49457.000,1.002,20.000,0.189,-79.000
+Yale University,Private nonprofit,0.046,85120.000,1717.000,5283.000,45628.000,0.962,20.000,0.144,28132.000
+Harvard University,Private nonprofit,0.032,83538.000,2895.000,2167.000,52634.000,0.945,21.000,0.095,2895.000
+Duke University,Private nonprofit,0.063,82749.000,3295.000,10076.000,49945.000,0.934,11.000,0.092,3295.000
+Princeton University,Private nonprofit,0.057,80415.000,2841.000,6975.000,39943.000,0.929,19.000,0.315,2518.000
+Vanderbilt University,Private nonprofit,0.067,84412.000,5797.000,8892.000,43288.000,0.866,22.000,0.129,5797.000
+University of Michigan-Ann Arbor,Public (in-state),0.177,33556.000,4926.000,11621.000,27199.000,0.819,18.000,0.201,4926.000
+University of California-Los Angeles,Public (in-state),0.086,36980.000,6864.000,11065.000,30301.000,0.773,26.000,0.326,6864.000
+University of Southern California,Private nonprofit,0.120,85064.000,12880.000,18993.000,52817.000,0.756,20.000,0.224,15470.000
+Ohio State University-Main Campus,Public (in-state),0.527,30185.000,6956.000,13620.000,26186.000,0.734,17.000,0.157,6259.000
+New York University,Private nonprofit,0.125,82095.000,16816.000,18555.000,58906.000,0.715,22.000,0.210,16816.000
+Arizona State University Campus Immersion,Public (in-state),0.898,31127.000,8909.000,15308.000,20904.000,0.574,29.000,0.359,8909.000
+The University of Texas at Austin,Public (in-state),0.314,30246.000,12157.000,17258.000,28408.000,0.572,27.000,0.295,12972.000
+Pennsylvania State University-Main Campus,Public (in-state),0.552,39447.000,20135.000,27137.000,36340.000,0.446,13.000,0.096,19458.000
+Grand Canyon University,For-profit,0.779,32100.000,18207.000,21977.000,23879.000,0.238,30.000,0.210,18474.000
+Southern New Hampshire University,Private nonprofit,0.964,37280.000,31967.000,33040.000,35345.000,0.096,61.000,0.560,33202.000
+Liberty University,Private nonprofit,0.993,42498.000,30398.000,27214.000,31028.000,0.020,30.000,0.262,30504.000
+Full Sail University,For-profit,,42157.000,29893.000,28856.000,30479.000,0.019,70.000,0.612,31667.000

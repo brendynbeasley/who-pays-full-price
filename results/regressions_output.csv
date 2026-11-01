@@ -1,0 +1,37 @@
+control,outcome,regressor,spec,n,coef,se,p,ci_low,ci_high,per_10_points,r2
+Private nonprofit,Pell share of first-year class (points),discount net of max Pell,raw,793,-36.876830,1.655459,0.000000,-40.121469,-33.632191,-3.687683,0.280241
+Private nonprofit,Pell share of first-year class (points),discount net of max Pell,+ selectivity,793,-38.850517,3.231818,0.000000,-45.184764,-32.516269,-3.885052,0.280821
+Private nonprofit,Pell share of first-year class (points),discount net of max Pell,"+ selectivity, endowment, sticker, state",793,-17.735879,4.440918,0.000065,-26.439917,-9.031840,-1.773588,0.517754
+Private nonprofit,Pell share of first-year class (points),discount,raw,793,-32.261392,2.072496,0.000000,-36.323409,-28.199375,-3.226139,0.195064
+Private nonprofit,Pell share of first-year class (points),discount,+ selectivity,793,-24.259069,3.687090,0.000000,-31.485632,-17.032506,-2.425907,0.208445
+Private nonprofit,Pell share of first-year class (points),discount,"+ selectivity, endowment, sticker, state",793,-9.754157,4.009308,0.014979,-17.612256,-1.896058,-0.975416,0.508767
+Private nonprofit,log number of first-year Pell recipients,discount net of max Pell,raw,793,0.202097,0.132889,0.128311,-0.058360,0.462554,0.020210,0.003516
+Private nonprofit,log number of first-year Pell recipients,discount net of max Pell,+ selectivity,793,0.139427,0.183868,0.448272,-0.220948,0.499801,0.013943,0.003761
+Private nonprofit,log number of first-year Pell recipients,discount net of max Pell,"+ selectivity, endowment, sticker, state",793,-0.227878,0.263630,0.387377,-0.744583,0.288827,-0.022788,0.174590
+Private nonprofit,log number of first-year Pell recipients,discount,raw,793,0.108293,0.142285,0.446598,-0.170580,0.387165,0.010829,0.000918
+Private nonprofit,log number of first-year Pell recipients,discount,+ selectivity,793,-0.052369,0.181966,0.773501,-0.409015,0.304276,-0.005237,0.003172
+Private nonprofit,log number of first-year Pell recipients,discount,"+ selectivity, endowment, sticker, state",793,-0.211396,0.231210,0.360558,-0.664559,0.241767,-0.021140,0.174794
+Private nonprofit,log first-year full-time class size,discount net of max Pell,raw,793,1.566952,0.127258,0.000000,1.317532,1.816373,0.156695,0.158439
+Private nonprofit,log first-year full-time class size,discount net of max Pell,+ selectivity,793,1.520606,0.199662,0.000000,1.129275,1.911937,0.152061,0.158540
+Private nonprofit,log first-year full-time class size,discount net of max Pell,"+ selectivity, endowment, sticker, state",793,0.617920,0.287681,0.031719,0.054076,1.181764,0.061792,0.339347
+Private nonprofit,log first-year full-time class size,discount,raw,793,1.310974,0.146743,0.000000,1.023362,1.598585,0.131097,0.100862
+Private nonprofit,log first-year full-time class size,discount,+ selectivity,793,0.819158,0.205477,0.000067,0.416431,1.221885,0.081916,0.116689
+Private nonprofit,log first-year full-time class size,discount,"+ selectivity, endowment, sticker, state",793,0.256094,0.255232,0.315679,-0.244152,0.756340,0.025609,0.334867
+Public (in-state),Pell share of first-year class (points),discount net of max Pell,raw,481,-26.771715,4.404696,0.000000,-35.404761,-18.138669,-2.677172,0.065583
+Public (in-state),Pell share of first-year class (points),discount net of max Pell,+ selectivity,481,-23.905729,5.332407,0.000007,-34.357055,-13.454402,-2.390573,0.070275
+Public (in-state),Pell share of first-year class (points),discount net of max Pell,"+ selectivity, endowment, sticker, state",481,-27.248852,5.906198,0.000004,-38.824787,-15.672918,-2.724885,0.491955
+Public (in-state),Pell share of first-year class (points),discount,raw,481,-9.264189,5.612023,0.098784,-20.263553,1.735175,-0.926419,0.008481
+Public (in-state),Pell share of first-year class (points),discount,+ selectivity,481,-4.647932,6.430279,0.469791,-17.251048,7.955183,-0.464793,0.027120
+Public (in-state),Pell share of first-year class (points),discount,"+ selectivity, endowment, sticker, state",481,-5.928212,6.477976,0.360122,-18.624812,6.768388,-0.592821,0.468972
+Public (in-state),log number of first-year Pell recipients,discount net of max Pell,raw,481,1.264218,0.333905,0.000153,0.609776,1.918659,0.126422,0.034503
+Public (in-state),log number of first-year Pell recipients,discount net of max Pell,+ selectivity,481,0.867486,0.361041,0.016273,0.159860,1.575113,0.086749,0.055715
+Public (in-state),log number of first-year Pell recipients,discount net of max Pell,"+ selectivity, endowment, sticker, state",481,0.095555,0.475775,0.840824,-0.836948,1.028057,0.009555,0.356034
+Public (in-state),log number of first-year Pell recipients,discount,raw,481,1.038474,0.308108,0.000750,0.434593,1.642354,0.103847,0.025141
+Public (in-state),log number of first-year Pell recipients,discount,+ selectivity,481,0.681485,0.318053,0.032139,0.058112,1.304858,0.068149,0.051440
+Public (in-state),log number of first-year Pell recipients,discount,"+ selectivity, endowment, sticker, state",481,-0.025919,0.386906,0.946590,-0.784240,0.732403,-0.002592,0.355970
+Public (in-state),log first-year full-time class size,discount net of max Pell,raw,481,2.110269,0.331240,0.000000,1.461050,2.759487,0.211027,0.086508
+Public (in-state),log first-year full-time class size,discount net of max Pell,+ selectivity,481,1.563254,0.362046,0.000016,0.853656,2.272851,0.156325,0.122795
+Public (in-state),log first-year full-time class size,discount net of max Pell,"+ selectivity, endowment, sticker, state",481,0.980472,0.484253,0.042897,0.031354,1.929590,0.098047,0.391395
+Public (in-state),log first-year full-time class size,discount,raw,481,1.375503,0.309352,0.000009,0.769183,1.981822,0.137550,0.039691
+Public (in-state),log first-year full-time class size,discount,+ selectivity,481,0.830368,0.318018,0.009026,0.207064,1.453672,0.083037,0.094873
+Public (in-state),log first-year full-time class size,discount,"+ selectivity, endowment, sticker, state",481,0.286978,0.374249,0.443194,-0.446536,1.020491,0.028698,0.385446

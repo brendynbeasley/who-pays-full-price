@@ -1,0 +1,17 @@
+control,outcome,spec,n,coef_log_admit,se,p,ci_low,ci_high,effect_of_halving_admit,r2
+Private nonprofit,discount,admit only,793,-0.225974,0.007027,0.000000,-0.239746,-0.212201,0.156633,0.472832
+Private nonprofit,discount,"+ endowment, sticker",793,-0.157735,0.009119,0.000000,-0.175608,-0.139862,0.109333,0.561443
+Private nonprofit,discount,"+ endowment, sticker, state",793,-0.165564,0.009370,0.000000,-0.183928,-0.147200,0.114760,0.636900
+Private nonprofit,discount,"+ yield, endowment, sticker, state",793,-0.154676,0.013988,0.000000,-0.182091,-0.127260,0.107213,0.637724
+Private nonprofit,discount net of max Pell,admit only,793,-0.262527,0.007522,0.000000,-0.277270,-0.247785,0.181970,0.580388
+Private nonprofit,discount net of max Pell,"+ endowment, sticker",793,-0.180311,0.007987,0.000000,-0.195965,-0.164658,0.124982,0.715217
+Private nonprofit,discount net of max Pell,"+ endowment, sticker, state",793,-0.185781,0.008214,0.000000,-0.201880,-0.169682,0.128774,0.761491
+Private nonprofit,discount net of max Pell,"+ yield, endowment, sticker, state",793,-0.163540,0.011803,0.000000,-0.186673,-0.140407,0.113357,0.764618
+Public (in-state),discount,admit only,481,-0.151163,0.020687,0.000000,-0.191708,-0.110618,0.104778,0.101498
+Public (in-state),discount,"+ endowment, sticker",481,-0.145675,0.022234,0.000000,-0.189252,-0.102097,0.100974,0.110463
+Public (in-state),discount,"+ endowment, sticker, state",481,-0.083155,0.021256,0.000092,-0.124816,-0.041494,0.057639,0.523817
+Public (in-state),discount,"+ yield, endowment, sticker, state",481,-0.073506,0.023887,0.002089,-0.120323,-0.026689,0.050951,0.525118
+Public (in-state),discount net of max Pell,admit only,481,-0.169666,0.021774,0.000000,-0.212342,-0.126990,0.117604,0.138084
+Public (in-state),discount net of max Pell,"+ endowment, sticker",481,-0.135433,0.018760,0.000000,-0.172202,-0.098664,0.093875,0.300368
+Public (in-state),discount net of max Pell,"+ endowment, sticker, state",481,-0.087747,0.016223,0.000000,-0.119543,-0.055951,0.060822,0.637376
+Public (in-state),discount net of max Pell,"+ yield, endowment, sticker, state",481,-0.081732,0.017641,0.000004,-0.116309,-0.047156,0.056653,0.637922

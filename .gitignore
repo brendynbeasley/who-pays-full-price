@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Extracted IPEDS files (the zips in data/raw/ipeds are committed)
+data/raw/ipeds/*.csv
+data/raw/ipeds/*.xlsx
+
+# Secrets
+*.key
+.env
+
+# OS
+.DS_Store
